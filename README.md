@@ -1,4 +1,4 @@
-## Hola!! Soy Victor Medina un desarrollador Front-End 👋
+## Hola!! Soy Victor Medina un Desarrollador Web Front-End 👋
 
 
 - 🔭 Actualmente estoy trabajando en: un sitio de reserva de servicios de limpieza y jardineria
