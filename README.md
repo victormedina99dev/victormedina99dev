@@ -5,7 +5,7 @@
 - 🌱 Actualmente estoy aprendiendo: react y react native
 - 👯 Estoy buscando colaborar en: cualquier desarrollo de una web dinamica
 - 🤔 Estoy buscando ayuda con: Base de datos
-- 📫 Puedes contactarme a traves de mi direccion de correo: victormedina99.dev@gmail.com
-- 🧑🏻‍💻 Stack : Front-End(HTML5,CSS,BOOTSTRAP,JAVASCRIPT VANILLA)
+- 📫 Puedes contactarme a traves de mi direccion de correo: victormedinalvarado99.dev@gmail.com
+- 🧑🏻‍💻 Stack : Front-End(HTML5,CSS,BOOTSTRAP,React,Astro)
 
   
